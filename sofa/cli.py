@@ -14,8 +14,8 @@ from sofa_preprocess import *
 from sofa_analyze import *
 from sofa_viz import *
 
-if __name__ == "__main__":
 
+def main():
     logdir = './sofalog/'
     command = None
     usr_command = None
