@@ -10,8 +10,8 @@ from operator import itemgetter, attrgetter
 import argparse
 import multiprocessing as mp
 from functools import partial
-from sofa_print import *
-from sofa_config import *
+from sofa.sofa_print import * 
+from sofa.sofa_config import * 
 import networkx as nx
 import re 
 

@@ -2,8 +2,8 @@
 import os
 import sys
 from functools import partial
-from sofa_print import *
-from sofa_config import *
+from sofa.sofa_print import *
+from sofa.sofa_config import *
 import subprocess
 
 

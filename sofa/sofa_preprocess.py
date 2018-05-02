@@ -11,8 +11,8 @@ import os
 from functools import partial
 import subprocess
 import re
-from sofa_config import *
-from sofa_print import *
+from sofa.sofa_config import * 
+from sofa.sofa_print import * 
 
 
 def list_downsample(list_in, plot_ratio):

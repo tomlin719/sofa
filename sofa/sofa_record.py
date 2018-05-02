@@ -8,7 +8,8 @@ import multiprocessing as mp
 import glob
 import os
 from functools import partial
-from sofa_print import *
+from sofa.sofa_config import * 
+from sofa.sofa_print import * 
 import subprocess
 from time import sleep, time
 
